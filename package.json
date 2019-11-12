@@ -1,0 +1,22 @@
+{
+  "name": "gitpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hm0869554/Fall.git"
+  },
+  "author": "Hunter Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hm0869554/Fall/issues"
+  },
+  "homepage": "https://github.com/hm0869554/Fall#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
